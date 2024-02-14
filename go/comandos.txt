@@ -1,0 +1,4 @@
+Se houver erro: Error loading workspace: packages.Load error: err: exit 
+status 1: stderr: go: no modules were found in the current workspace; see 'go help work'
+
+Basta executar o comando abaixo em seu espaço de trabalho/módulo: go work use .

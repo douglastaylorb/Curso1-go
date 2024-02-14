@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu-22.04/mnt/d/OneDrive/Estudos/Alura/Cursos/Go - A Linguagem do google/go"
+		}
+	],
+	"remoteAuthority": "wsl+ubuntu-22.04",
+	"settings": {}
+}
