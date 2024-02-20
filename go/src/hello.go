@@ -5,7 +5,15 @@ import "fmt"
 func main() {
 	nome := "Douglas"
 	versao := 1.2
-	idade := 32
-	fmt.Println("Olá,", nome, "Sua idade é:", idade)
+	fmt.Println("Olá,", nome)
 	fmt.Println("Este programa está na versão:", versao)
+
+	fmt.Println("1- Iniciar Monitoramento")
+	fmt.Println("2- Exibir os Logs")
+	fmt.Println("0- Sair do programa")
+
+	var comando int
+	fmt.Scan(&comando)
+
+	fmt.Println("O comando escolhido foi:", comando)
 }
